@@ -1,0 +1,13 @@
+.logoWrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 220px;
+    margin-top: -41px;
+    color: purple;
+}
+.logo {
+    width: 36px;
+    margin-bottom: 100px;
+    color: purple;
+}

@@ -1,0 +1,13 @@
+.imageWrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;   /* pull image up slightly */
+    margin-bottom: -420px; /* space between image and VendorAssist text */
+}
+
+.image {
+    width: 300px;
+    height: auto;
+
+}

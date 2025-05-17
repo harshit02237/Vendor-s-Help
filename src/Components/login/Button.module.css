@@ -1,0 +1,23 @@
+.margin {
+    margin-top: 20px;
+}
+
+.align,
+.align2 {
+    border: 1px solid black;
+    padding: 4px; /* Uniform padding inside the button */
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: purple;
+    color: white;
+    /* Take full width of container */
+    box-sizing: border-box;
+    font-size: 16px;        /* Optional for better readability */
+    width: 57%;       /* Optional to limit size on large screens */
+    display: block;
+    margin: 11px auto;      /* Center the button */
+}
+
+.or {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 5px;
+}
