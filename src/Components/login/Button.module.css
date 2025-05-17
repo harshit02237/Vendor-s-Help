@@ -12,7 +12,7 @@
     /* Take full width of container */
     box-sizing: border-box;
     font-size: 16px;        /* Optional for better readability */
-    width: 57%;       /* Optional to limit size on large screens */
+    width: 70%;       /* Optional to limit size on large screens */
     display: block;
     margin: 11px auto;      /* Center the button */
 }
